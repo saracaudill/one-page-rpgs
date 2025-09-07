@@ -1,2 +1,2 @@
 # one-page-rpgs
-markdown version of my one-page rpgs
+markdown versions of my one-page rpgs
